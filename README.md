@@ -1,5 +1,5 @@
 # contatos
-
+Descrição: É utilizado o vuejs com o bootstrap vue e seus componentes de estilização, axios para requisição e trabalho de forma assíncrona.
 ## Project setup
 ```
 npm install
@@ -13,11 +13,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
